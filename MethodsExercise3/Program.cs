@@ -82,7 +82,27 @@ namespace MethodsExercise3
                     break;
 
             }
-        }    
+        } 
+        static void MultiplicationTable(int multiNum)
+        {
+            var i = 0;
+            do
+            {
+                int numToDisplay = multiNum * i++;
+                Console.WriteLine($"{numToDisplay}");
+            } while (i < 13);
+        }
+        static void WithinRange(int num)
+        {
+            if (num < 11 && num > -11)
+            {
+                Console.WriteLine($"{num} is within the accepted range of -10 to 10");
+            }
+            else
+            {
+                Console.WriteLine($"{num} is not within the accepted range of -10 to 10");
+            }
+        }
         static void Main(string[] args)
         {
              Console.WriteLine("Please enter a command \n" +
@@ -95,6 +115,15 @@ namespace MethodsExercise3
                 "Voting Age");
             string command = Console.ReadLine();
             WhatToDo(command);
+
+            Console.WriteLine("Enter any number");
+            int num = int.Parse(Console.ReadLine());
+            WithinRange(num);
+
+            Console.WriteLine("What number do you want to see a multiplication table for?");
+            int multiNum = int.Parse(Console.ReadLine());
+            MultiplicationTable(multiNum);
+
             
         }
     }
