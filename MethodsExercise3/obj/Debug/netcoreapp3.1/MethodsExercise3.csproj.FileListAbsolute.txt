@@ -1,0 +1,13 @@
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.csproj.AssemblyReference.cache
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.AssemblyInfoInputs.cache
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.AssemblyInfo.cs
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.csproj.CoreCompileInputs.cache
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.exe
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.deps.json
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.runtimeconfig.json
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.runtimeconfig.dev.json
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.dll
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\bin\Debug\netcoreapp3.1\MethodsExercise3.pdb
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.dll
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.pdb
+C:\Users\ripli\Desktop\repos\MethodsExercise3\MethodsExercise3\obj\Debug\netcoreapp3.1\MethodsExercise3.genruntimeconfig.cache
